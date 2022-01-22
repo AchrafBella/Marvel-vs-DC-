@@ -9,9 +9,14 @@
 
 Description
 -----------
-The main objectif of this project is to conduct some analysis on the european and american population on how they react on MCU ( Marvel Cinematic Universe ) & DC 
+
+The main objectif of this project is to conduct some analysis on the european and american population on how they react on MCU ( Marvel Cinematic Universe ) & DC.
+
+
 Pipeline
 -----------
+
+
 
 Requirements
 -----------
