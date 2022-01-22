@@ -1,3 +1,3 @@
 # Marvel-vs-DC-
 
-![marvel-cinematic-universe-data-visualization](https://user-images.githubusercontent.com/52492864/150647911-002203c2-5456-4bfa-9492-bdfcefc27973.png)
+ ![marvel-vs-dc](https://user-images.githubusercontent.com/52492864/150648002-b34191a1-c001-49d9-bb41-67c4c8508153.jpg)
