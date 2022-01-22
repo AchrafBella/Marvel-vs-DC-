@@ -15,6 +15,7 @@ The main objectif of this project is to conduct some analysis on the european an
 
 Pipeline
 -----------
+![image](https://user-images.githubusercontent.com/52492864/150654022-f27b0244-5872-4fd6-a3f0-6ac62e2a1550.png)
 
 
 
