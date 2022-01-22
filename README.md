@@ -12,7 +12,7 @@
 
 
 
-Exemple to run: 
+Example to run: 
 -----------
 ``` 
 bokeh serve --show .\bokeh_app.py
