@@ -21,11 +21,11 @@ Pipeline
 Requirements
 -----------
 ```python
-* **!pip install tweepy==3.9.0**
-* **!conda install -c conda-forge wordcloud**
-* **!pip install textblob**
-* **!pip install nltk**
-* **!pip install bokeh**
+ !pip install tweepy==3.9.0
+ !conda install -c conda-forge wordcloud 
+ !pip install textblob**
+ !pip install nltk 
+ !pip install bokeh 
 ```
 
 
