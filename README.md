@@ -2,4 +2,8 @@
 --------------
 
 
-   ![marvel-vs-dc](https://user-images.githubusercontent.com/52492864/150648002-b34191a1-c001-49d9-bb41-67c4c8508153.jpg)
+  
+
+<p align="center">
+  <img src= ![marvel-vs-dc](https://user-images.githubusercontent.com/52492864/150648002-b34191a1-c001-49d9-bb41-67c4c8508153.jpg) alt="Sublime's custom image"/>
+</p>
