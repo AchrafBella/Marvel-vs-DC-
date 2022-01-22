@@ -35,4 +35,5 @@ Example to run:
 bokeh serve --show .\bokeh_app.py
 ```
 
- 
+Some results in Bokeh application:
+-----------
